@@ -1,13 +1,18 @@
-# Data Processing and Data Structures
+# Big-O Data Processing and Data Structures
 
-A programming project focused on data processing concepts and fundamental data structures.
+A programming project focused on Big-O analysis, data processing concepts, and fundamental data structures.
 
 ## Overview
 
 This repository contains exercises, implementations, and examples related to data processing and data structures. It is useful for practicing problem solving, algorithmic thinking, and understanding how data can be organized, processed, and managed efficiently.
 
+The project also emphasizes algorithm complexity analysis using Big-O notation.
+
 ## Main Topics
 
+- Big-O notation
+- Time complexity analysis
+- Space complexity analysis
 - Data processing fundamentals
 - Arrays and lists
 - Stacks and queues
@@ -15,8 +20,7 @@ This repository contains exercises, implementations, and examples related to dat
 - Trees and graphs
 - Searching algorithms
 - Sorting algorithms
-- Algorithm complexity
-- Big-O notation
+- Algorithm efficiency comparison
 
 ## Learning Goals
 
@@ -27,18 +31,20 @@ The main goals of this project are to:
 - Practice efficient algorithm design
 - Learn how to analyze time and space complexity
 - Apply theoretical concepts through code examples
+- Compare different algorithms based on performance
 
 ## Technologies Used
 
 - C / C++
 - Data Structures
 - Algorithms
+- Big-O Analysis
 - Problem Solving
 
 ## Project Structure
 
 ```text
-data-processing-data-structures/
+big-o-data-processing-structures/
 ├── README.md
 ├── src/
 ├── examples/
@@ -56,16 +62,20 @@ The current repository name is difficult to read:
 -O-lg-n-data-processing---data-structures
 ```
 
-A better professional name would be:
+A more specific and professional name would be:
 
 ```text
-data-structures-and-algorithms
+big-o-data-processing-structures
 ```
 
-or:
+Other possible names:
 
 ```text
-data-processing-data-structures
+data-structure-complexity-analysis
+```
+
+```text
+algorithm-complexity-data-processing
 ```
 
 ## Future Improvements
@@ -74,7 +84,8 @@ data-processing-data-structures
 - Add examples for each data structure
 - Add comments explaining the code
 - Add complexity analysis for algorithms
-- Add screenshots or diagrams where useful
+- Add diagrams for data structures
+- Add performance comparison examples
 - Rename the repository to a cleaner professional name
 
 ## Author
